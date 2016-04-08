@@ -1,5 +1,5 @@
 # Talks
-A collection of talks given by Andrea Falcone
+A collection of talks given by [Andrea Falcone](https://twitter.com/asfalcone)
 
 #### Android Developer Options Deep Dive
 

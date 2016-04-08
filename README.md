@@ -14,3 +14,9 @@ Conference | Date | 🎥 | 💻
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
 [Twitter Flight](https://dev.twitter.com/flight/2014) | October 2014 | [video](https://www.youtube.com/watch?v=3h7jQU1AOvw) |  [slides](/slides/Designing_and_Building_SDKs_for_Android.pdf)
+
+#### Advanced Techniques for Developing Powerful, Yet Lightweight Android SDKs
+
+Conference | Date | 🎥 | 💻
+--------|------|--------|-------
+[AnDevCon IV](http://www.andevcon.com/) | December 2012 |  |  [slides](/slides/Advanced%20Techniques%20for%20Developing%20Powerful%2C%20Yet%20Lightweight%20Android%20SDKs%20-%20OLD.pdf)

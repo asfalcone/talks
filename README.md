@@ -1,6 +1,12 @@
 # Talks
 A collection of talks given by [Andrea Falcone](https://twitter.com/asfalcone)
 
+#### Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
+
+Conference | Date | 🎥 | 💻
+--------|------|--------|-------
+[PhillyETE](2016.phillyemergingtech.com/) | April 2016 | coming soon | [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf)
+
 #### Android Developer Options Deep Dive
 
 Conference | Date | 🎥 | 💻

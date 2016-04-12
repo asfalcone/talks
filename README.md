@@ -1,5 +1,5 @@
-# Talks
-A collection of talks given by [Andrea Falcone](https://twitter.com/asfalcone)
+## 🏼Talks
+##### A collection of talks given by [Andrea Falcone](https://twitter.com/asfalcone)
 
 #### 🚀 Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
 

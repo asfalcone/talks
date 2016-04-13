@@ -1,13 +1,16 @@
 ## 🏼Talks
-##### A collection of talks given by [Andrea Falcone](https://twitter.com/asfalcone)
+
+Bio: [Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engineer at Twitter. She has worked on many parts of Fabric, building the Android tooling, including Android Studio Plugin, Crashlytics Android SDK, Gradle plugin and Beta by Crashlytics. She is currently working on fastlane, an open source release process automation suite.
 
 #### 🚀 Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
+How would you like 2 extra hours of your time back every week? All mobile app developers face similar workflows as they work to upload an app to the App & Play Store. Many of these processes are currently done manually, but why not automate them? Fabric’s set of developer tools, collectively called fastlane, makes building, testing, and releasing your app faster, reproducible and less troublesome, leaving developers more time to focus on feature code and not deployment! Learn how you can automate the tedious tasks to generate release notes, screenshots and push your final submission straight to the iTunesConnect or Google Play portal effortlessly from your command line with a powerful open source tool.
 
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
 [PhillyETE](http://2016.phillyemergingtech.com/) | April 2016 | coming soon | [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf)
 
 #### 🔍 Android Developer Options Deep Dive
+Testing an app on your perfect Nexus 5 device under perfect network conditions works great, but you're getting reports of strange behavior from the wild and weird crashes that you can't reproduce. This talk will walk through some of the more complex options on the Developer Options screen in the Android OS and discuss how a developer can use them to debug problems in their application. Topics covered include: showing surface updates to help you find layout loops in your app, showing layout bounds to get your views pixel perfect, and aggressively killing processes and activities to ensure that your app performs well under stress. We'll cover these options and more as we dive deep into debugging apps.
 
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------

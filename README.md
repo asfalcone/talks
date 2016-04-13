@@ -5,7 +5,7 @@
 
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
-[PhillyETE](2016.phillyemergingtech.com/) | April 2016 | coming soon | [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf)
+[PhillyETE](http://2016.phillyemergingtech.com/) | April 2016 | coming soon | [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf)
 
 #### 🔍 Android Developer Options Deep Dive
 

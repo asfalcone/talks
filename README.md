@@ -2,6 +2,12 @@
 
 Bio: [Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engineer at Twitter. She has worked on many parts of Fabric, building the Android tooling, including Android Studio Plugin, Crashlytics Android SDK, Gradle plugin and Beta by Crashlytics. She is currently working on fastlane, an open source release process automation suite.
 
+### Upcoming
+Conference | Date | Topic
+--------|------|--------
+[Droidcon Vienna](https://droidcon.at/) | September 2016 | [Supercharging your Android release with fastlane](https://twitter.com/droidconVIE/status/740818495634608129)
+
+
 #### 🚀 Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
 How would you like 2 extra hours of your time back every week? All mobile app developers face similar workflows as they work to upload an app to the App & Play Store. Many of these processes are currently done manually, but why not automate them? Fabric’s set of developer tools, collectively called fastlane, makes building, testing, and releasing your app faster, reproducible and less troublesome, leaving developers more time to focus on feature code and not deployment! Learn how you can automate the tedious tasks to generate release notes, screenshots and push your final submission straight to the iTunesConnect or Google Play portal effortlessly from your command line with a powerful open source tool.
 

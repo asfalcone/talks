@@ -5,6 +5,7 @@ Bio: [Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engine
 ### Upcoming
 Conference | Date | Topic
 --------|------|--------
+[Twitter Dev Community Meetup](http://www.meetup.com/Boston-Twitter-Developer-Community/events/232247449/) | July 13 2016 | [Supercharging your Android release with fastlane](https://twitter.com/asfalcone/status/748653827155443712)
 [Droidcon Vienna](https://droidcon.at/) | September 2016 | [Supercharging your Android release with fastlane](https://twitter.com/droidconVIE/status/740818495634608129)
 
 

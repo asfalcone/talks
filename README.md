@@ -5,7 +5,6 @@ Bio: [Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engine
 ### Upcoming
 Conference | Date | Topic
 --------|------|--------
-[Twitter Dev Community Meetup](http://www.meetup.com/Boston-Twitter-Developer-Community/events/232247449/) | July 13 2016 | [Supercharging your Android release with fastlane](https://twitter.com/asfalcone/status/748653827155443712)
 [Droidcon Vienna](https://droidcon.at/) | September 2016 | [Supercharging your Android release with fastlane](https://twitter.com/droidconVIE/status/740818495634608129)
 
 
@@ -14,7 +13,8 @@ How would you like 2 extra hours of your time back every week? All mobile app de
 
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
-[PhillyETE](http://2016.phillyemergingtech.com/) | April 2016 | http://chariotsolutions.com/screencast/philly-ete-2016-5-andrea-falcone-supercharging-mobile-app-release-fastlane/ | [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf)
+[Twitter Dev Community Meetup](http://www.meetup.com/Boston-Twitter-Developer-Community/events/232247449/) | July 2016 | | [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf) 
+[PhillyETE](http://2016.phillyemergingtech.com/) | April 2016 | [video] http://chariotsolutions.com/screencast/philly-ete-2016-5-andrea-falcone-supercharging-mobile-app-release-fastlane/ | [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf)
 
 #### 🔍 Android Developer Options Deep Dive
 Testing an app on your perfect Nexus 5 device under perfect network conditions works great, but you're getting reports of strange behavior from the wild and weird crashes that you can't reproduce. This talk will walk through some of the more complex options on the Developer Options screen in the Android OS and discuss how a developer can use them to debug problems in their application. Topics covered include: showing surface updates to help you find layout loops in your app, showing layout bounds to get your views pixel perfect, and aggressively killing processes and activities to ensure that your app performs well under stress. We'll cover these options and more as we dive deep into debugging apps.

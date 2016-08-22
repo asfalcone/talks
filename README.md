@@ -5,7 +5,9 @@ Bio: [Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engine
 ### Upcoming
 Conference | Date | Topic
 --------|------|--------
-[Droidcon Vienna](https://droidcon.at/) | September 2016 | [Supercharging your Android release with fastlane](https://twitter.com/droidconVIE/status/740818495634608129)
+[Droidcon Vienna](https://droidcon.at/) | September 15-16, 2016 | [Supercharging your Android release with fastlane](https://twitter.com/droidconVIE/status/740818495634608129)
+[Droidcon NYC](http://droidcon.nyc/) | September 29-30, 2016 | [Supercharging your Android release with fastlane](http://sched.droidcon.nyc/showTopicSquarespace/61450)
+
 
 
 #### 🚀 Supercharging your mobile app release with [fastlane](https://fastlane.tools/)

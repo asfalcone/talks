@@ -5,7 +5,7 @@ Bio: [Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engine
 ### Upcoming
 Conference | Date | Topic
 --------|------|--------
-[Droidcon NYC](http://droidcon.nyc/) | September 29-30, 2016 | [Supercharging your Android release with fastlane](http://sched.droidcon.nyc/showTopicSquarespace/61450)
+[AndroidTO](androidto.com) | November 2, 2016 | [Supercharging your Android release with fastlane](http://sched.droidcon.nyc/showTopicSquarespace/61450)
 
 
 #### 🚀 Supercharging your _Android_ app release with [fastlane](https://fastlane.tools/)
@@ -13,7 +13,9 @@ How would you like 2 extra hours of your time back every week? All mobile app de
 
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
-[Droidcon Vienna](https://droidcon.at/) | September 16, 2016 | |[slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
+[Droidcon NYC](http://droidcon.nyc/) | September 29, 2016 | coming soon | [slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
+[Droidcon Vienna](https://droidcon.at/) | September 16, 2016 | coming soon |[slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
+
 
 #### 🚀 Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
 How would you like 2 extra hours of your time back every week? All mobile app developers face similar workflows as they work to upload an app to the App & Play Store. Many of these processes are currently done manually, but why not automate them? Fabric’s set of developer tools, collectively called fastlane, makes building, testing, and releasing your app faster, reproducible and less troublesome, leaving developers more time to focus on feature code and not deployment! Learn how you can automate the tedious tasks to generate release notes, screenshots and push your final submission straight to the iTunesConnect or Google Play portal effortlessly from your command line with a powerful open source tool.

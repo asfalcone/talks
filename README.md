@@ -13,7 +13,7 @@ How would you like 2 extra hours of your time back every week? All mobile app de
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
 [AndroidTO](androidto.com) | November 2, 2016 |  | [slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
-[Droidcon NYC](http://droidcon.nyc/) | September 29, 2016 | coming soon | [slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
+[Droidcon NYC](http://droidcon.nyc/) | September 29, 2016 | [video](https://www.youtube.com/watch?v=I4gq0v0jq3Q) | [slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
 [Droidcon Vienna](https://droidcon.at/) | September 16, 2016 | coming soon |[slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
 
 

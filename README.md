@@ -5,7 +5,7 @@ Bio: [Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engine
 ### Upcoming
 Conference | Date | Topic
 --------|------|--------|-------
-DevoxxUS (San Jose, CA) | March 21 – 23, 2017 | Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
+DevoxxUS (San Jose, CA) | March 21 – 23, 2017 | [Supercharging your mobile app release with fastlane](http://cfp.devoxx.us/2017/speaker/andrea_falcone)
 
 #### 🚀 Supercharging your _Android_ app release with [fastlane](https://fastlane.tools/)
 How would you like 2 extra hours of your time back every week? All mobile app developers face similar workflows as they work to upload an app to the Play Store. Many of these processes are currently done manually, but why not automate them? Fabric’s set of developer tools, collectively called fastlane, makes building, testing, and releasing your app faster, reproducible and less troublesome, leaving developers more time to focus on feature code and not deployment! Learn how you can automate the tedious tasks to generate release notes, screenshots using _screengrab_ and push your final submission straight to the Google Play portal effortlessly from your command line using _supply_ with a powerful open source tool.

@@ -1,6 +1,6 @@
 ## Talks
 
-Bio: [Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engineer at Twitter. She has worked on many parts of Fabric, building the Android tooling, including Android Studio Plugin, Crashlytics Android SDK, Gradle plugin and Beta by Crashlytics. She is currently working on fastlane, an open source release process automation suite.
+Bio: [Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engineer at Google, in the Developer Product Group. She has worked on many parts of Fabric, building the Android tooling, including Android Studio Plugin, Crashlytics Android SDK, Gradle plugin and Beta by Crashlytics. She is currently working on fastlane, an open source release process automation suite.
 
 ### Upcoming
 Conference | Date | Topic

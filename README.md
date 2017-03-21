@@ -4,8 +4,7 @@ Bio: [Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engine
 
 ### Upcoming
 Conference | Date | Topic
---------|------|--------|-------
-Appdevcon (Amsterdam, The Netherlands) | March 17, 2017 | [Supercharging your mobile app release with fastlane](http://appdevcon.nl/session/andrea-falcone-fabric-fastlane/)
+--------|------|--------
 DevoxxUS (San Jose, CA) | March 21 – 23, 2017 | [Supercharging your mobile app release with fastlane](http://cfp.devoxx.us/2017/speaker/andrea_falcone)
 
 
@@ -24,6 +23,7 @@ How would you like 2 extra hours of your time back every week? All mobile app de
 
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
+[Appdevcon](www.appdevcon.nl)| March 2017 | | [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf)
 [Twitter Dev Community Meetup](http://www.meetup.com/Boston-Twitter-Developer-Community/events/232247449/) | July 2016 | | [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf) 
 [PhillyETE](http://2016.phillyemergingtech.com/) | April 2016 | [video] (http://chariotsolutions.com/screencast/philly-ete-2016-5-andrea-falcone-supercharging-mobile-app-release-fastlane/) | [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf)
 

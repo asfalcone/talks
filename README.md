@@ -15,7 +15,7 @@ Conference | Date | 🎥 | 💻
 --------|------|--------|-------
 [AndroidTO](androidto.com) | November 2, 2016 |  | [slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
 [Droidcon NYC](http://droidcon.nyc/) | September 29, 2016 | [video](https://www.youtube.com/watch?v=1Yg98k-MuQo) | [slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
-[Droidcon Vienna](https://droidcon.at/) | September 16, 2016 | coming soon |[slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
+[Droidcon Vienna](https://droidcon.at/) | September 16, 2016 | |[slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
 
 
 #### 🚀 Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
@@ -25,7 +25,7 @@ Conference | Date | 🎥 | 💻
 --------|------|--------|-------
 [Appdevcon](www.appdevcon.nl)| March 2017 | | [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf)
 [Twitter Dev Community Meetup](http://www.meetup.com/Boston-Twitter-Developer-Community/events/232247449/) | July 2016 | | [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf) 
-[PhillyETE](http://2016.phillyemergingtech.com/) | April 2016 | [video] (http://chariotsolutions.com/screencast/philly-ete-2016-5-andrea-falcone-supercharging-mobile-app-release-fastlane/) | [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf)
+[PhillyETE](http://2016.phillyemergingtech.com/) | April 2016 | [video](http://chariotsolutions.com/screencast/philly-ete-2016-5-andrea-falcone-supercharging-mobile-app-release-fastlane/) | [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf)
 
 #### 🔍 Android Developer Options Deep Dive
 Testing an app on your perfect Nexus 5 device under perfect network conditions works great, but you're getting reports of strange behavior from the wild and weird crashes that you can't reproduce. This talk will walk through some of the more complex options on the Developer Options screen in the Android OS and discuss how a developer can use them to debug problems in their application. Topics covered include: showing surface updates to help you find layout loops in your app, showing layout bounds to get your views pixel perfect, and aggressively killing processes and activities to ensure that your app performs well under stress. We'll cover these options and more as we dive deep into debugging apps.

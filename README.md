@@ -5,7 +5,7 @@ Bio: [Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engine
 ### Upcoming
 Conference | Date | Topic
 --------|------|--------
-DevoxxUS (San Jose, CA) | March 21 – 23, 2017 | [Supercharging your mobile app release with fastlane](http://cfp.devoxx.us/2017/speaker/andrea_falcone)
+[GOTO Copenhagen](https://gotocph.com/2017/sessions/155) | Oct 1-5, 2017|  Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
 
 
 #### 🚀 Supercharging your _Android_ app release with [fastlane](https://fastlane.tools/)
@@ -13,6 +13,7 @@ How would you like 2 extra hours of your time back every week? All mobile app de
 
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
+[DevoxxUS](devoxx.us) | March 23, 2017 | | [slides]
 [AndroidTO](androidto.com) | November 2, 2016 |  | [slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
 [Droidcon NYC](http://droidcon.nyc/) | September 29, 2016 | [video](https://www.youtube.com/watch?v=1Yg98k-MuQo) | [slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
 [Droidcon Vienna](https://droidcon.at/) | September 16, 2016 | |[slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)

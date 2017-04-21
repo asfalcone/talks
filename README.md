@@ -5,7 +5,9 @@ Bio: [Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engine
 ### Upcoming
 Conference | Date | Topic
 --------|------|--------
+[360AnDev](https://360andev.com/speakers/andrea-falcone/) | July 13-14, 2017 | Android Developer Options Deep Dive
 [GOTO Copenhagen](https://gotocph.com/2017/sessions/155) | Oct 1-5, 2017|  Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
+Øredev | Nov 6-10, 2017 | Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
 
 
 #### 🚀 Supercharging your _Android_ app release with [fastlane](https://fastlane.tools/)
@@ -50,3 +52,10 @@ Conference | Date | 🎥 | 💻
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
 [AnDevCon IV](http://www.andevcon.com/) | December 2012 |  |  [slides](/slides/Advanced%20Techniques%20for%20Developing%20Powerful%2C%20Yet%20Lightweight%20Android%20SDKs%20-%20OLD.pdf)
+
+## Other
+
+### Organizing
+
+#### Droidcon Boston 2017
+Co-organized the 1st edition of [Droidcon Boston](www.droidcon-boston.com). Responsible for content, schedule and sponsors. 

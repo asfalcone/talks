@@ -58,4 +58,4 @@ Conference | Date | 🎥 | 💻
 ### Organizing
 
 #### Droidcon Boston 2017
-Co-organized the 1st edition of [Droidcon Boston](www.droidcon-boston.com). Responsible for content, schedule and sponsors. 
+Co-organized the 1st edition of [Droidcon Boston](http://www.droidcon-boston.com). Responsible for content, schedule and sponsors. 

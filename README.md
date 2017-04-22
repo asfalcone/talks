@@ -27,7 +27,7 @@ How would you like 2 extra hours of your time back every week? All mobile app de
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
 [Appdevcon](www.appdevcon.nl)| March 2017 | | [slides](https://drive.google.com/open?id=0B1kX3B0jm6aVTFlIQ3JqUVRlMDQ)
-[Twitter Dev Community Meetup](http://www.meetup.com/Boston-Twitter-Developer-Community/events/232247449/) | July 2016 | | [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf) 
+[Twitter Dev Community Meetup](http://www.meetup.com/Boston-Twitter-Developer-Community/events/232247449/) | July 2016 | [video](https://www.youtube.com/watch?v=oN16DO-jxEQ)| [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf) 
 [PhillyETE](http://2016.phillyemergingtech.com/) | April 2016 | [video](http://chariotsolutions.com/screencast/philly-ete-2016-5-andrea-falcone-supercharging-mobile-app-release-fastlane/) | [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf)
 
 #### 🔍 Android Developer Options Deep Dive

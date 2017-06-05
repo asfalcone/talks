@@ -7,7 +7,7 @@ Conference | Date | Topic
 --------|------|--------
 [360AnDev](https://360andev.com/speakers/andrea-falcone/) | July 13-14, 2017 | Android Developer Options Deep Dive
 [GOTO Copenhagen](https://gotocph.com/2017/sessions/155) | Oct 1-5, 2017|  Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
-Øredev | Nov 6-10, 2017 | Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
+[Øredev](http://www.oredev.org/2017/sessions/supercharging-your-mobile-app-release-with-fastlane) | Nov 6-10, 2017 | Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
 
 
 #### 🚀 Supercharging your _Android_ app release with [fastlane](https://fastlane.tools/)

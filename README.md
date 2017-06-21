@@ -5,9 +5,10 @@ Bio: [Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engine
 ### Upcoming
 Conference | Date | Topic
 --------|------|--------
-[360AnDev](https://360andev.com/speakers/andrea-falcone/) | July 13-14, 2017 | Android Developer Options Deep Dive
-[GOTO Copenhagen](https://gotocph.com/2017/sessions/155) | Oct 1-5, 2017|  Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
-[Øredev](http://www.oredev.org/2017/sessions/supercharging-your-mobile-app-release-with-fastlane) | Nov 6-10, 2017 | Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
+[360AnDev (Denver, CO)](https://360andev.com/speakers/andrea-falcone/) | July 13-14, 2017 | Android Developer Options Deep Dive
+[GOTO (Copenhagen, Denmark)](https://gotocph.com/2017/sessions/155) | Oct 1-3, 2017|  Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
+[Mobile Era (Oslo, Norway)](https://mobileera.rocks/speakers/202/) | Oct 5-6, 2017|  Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
+[Øredev (Malmo, Sweden)](http://www.oredev.org/2017/sessions/supercharging-your-mobile-app-release-with-fastlane) | Nov 6-10, 2017 | Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
 
 
 #### 🚀 Supercharging your _Android_ app release with [fastlane](https://fastlane.tools/)

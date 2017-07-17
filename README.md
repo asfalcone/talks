@@ -15,10 +15,10 @@ How would you like 2 extra hours of your time back every week? All mobile app de
 
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
-[DevoxxUS](devoxx.us) | March 23, 2017 | | 
-[AndroidTO](androidto.com) | November 2, 2016 |  | [slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
-[Droidcon NYC](http://droidcon.nyc/) | September 29, 2016 | [video](https://www.youtube.com/watch?v=1Yg98k-MuQo) | [slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
-[Droidcon Vienna](https://droidcon.at/) | September 16, 2016 | |[slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
+[DevoxxUS](devoxx.us) | March 2017 | | 
+[AndroidTO](androidto.com) | November 2016 |  | [slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
+[Droidcon NYC](http://droidcon.nyc/) | September 2016 | [video](https://www.youtube.com/watch?v=1Yg98k-MuQo) | [slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
+[Droidcon Vienna](https://droidcon.at/) | September 2016 | |[slides](https://docs.google.com/presentation/d/1mrGImnooda4jX6z55YzIUb15w_-0hlvtzjCKA1nfNIg/pub?start=false&loop=false&delayms=3000)
 
 
 #### 🚀 Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
@@ -35,7 +35,7 @@ Testing an app on your perfect Nexus 5 device under perfect network conditions w
 
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
-[360|AnDev](https://360andev.com) | July 2017 | coming soon |  [slides](https://drive.google.com/file/d/0B1kX3B0jm6aVLVdnTGZrcVU0YUE/view?usp=sharing)
+[360\|AnDev](https://360andev.com) | July 2017 | coming soon |  [slides](https://drive.google.com/file/d/0B1kX3B0jm6aVLVdnTGZrcVU0YUE/view?usp=sharing)
 [DroidconSF](http://sf.droidcon.com/) | March 2016 | [video](https://www.youtube.com/watch?v=TbiNM1ltawo) |  [slides](/slides/Andrea%20Falcone%20-%20Android%20Developer%20Options.pdf)
 [Twitter Flight](https://dev.twitter.com/flight/2015) | October 2015 | [video](https://www.youtube.com/watch?v=Fmf9b2EqqIE) | [slides](/slides/Flight2015-Falcone_Andrea-Android_Developer_Options.pdf)
 [DroidconNYC](http://nyc.droidcon.com/2015/) | August 2015 | [video](https://www.youtube.com/watch?v=r9kW3nIDdBY) | [slides](/slides/Andrea%20Falcone%20-%20Android%20Developer%20Options.pdf)

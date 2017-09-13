@@ -56,8 +56,10 @@ Conference | Date | 🎥 | 💻
 [AnDevCon IV](http://www.andevcon.com/) | December 2012 |  |  [slides](/slides/Advanced%20Techniques%20for%20Developing%20Powerful%2C%20Yet%20Lightweight%20Android%20SDKs%20-%20OLD.pdf)
 
 ## Other
+#### Conference organizing/committee membership
 
-### Organizing
-
-#### Droidcon Boston 2017
-Co-organized the 1st edition of [Droidcon Boston](http://www.droidcon-boston.com). Responsible for content, schedule and sponsors. 
+Conference | Date | Role
+--------|------|--------
+[Droidcon Boston](http://www.droidcon-boston.com) | April 2017 | Co-organized the 1st edition of Droidcon Boston. Responsible for content, schedule and sponsors. 
+[Droidcon NYC](http://droidcon.nyc/) | Sept 2017 | Program Committee
+[Droidcon SF](https://sf.droidcon.com/) | Nov 2017 | Program Committee

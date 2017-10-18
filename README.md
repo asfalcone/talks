@@ -4,11 +4,13 @@
 [Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engineer at Google, in the Developer Product Group. She has been on the team since 2013 and works on many parts of Fabric, building the Android tooling, including Android Studio Plugin, Crashlytics Android SDK, Gradle plugin, Beta by Crashlytics and fastlane.
 
 ### Upcoming
+***Canceled fall talks due to family emergency***
+
 Conference | Date | Topic
 --------|------|--------
-[GOTO (Copenhagen, Denmark)](https://gotocph.com/2017/sessions/155) | Oct 1-3, 2017|  Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
-[Mobile Era (Oslo, Norway)](https://mobileera.rocks/speakers/202/) | Oct 5-6, 2017|  Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
-[Øredev (Malmo, Sweden)](http://www.oredev.org/2017/sessions/supercharging-your-mobile-app-release-with-fastlane) | Nov 6-10, 2017 | Supercharging your mobile app release with [fastlane](https://fastlane.tools/)
+~[GOTO (Copenhagen, Denmark)](https://gotocph.com/2017/sessions/155)~ | ~Oct 1-3, 2017~|  ~Supercharging your mobile app release with [fastlane](https://fastlane.tools/)~
+~[Mobile Era (Oslo, Norway)](https://mobileera.rocks/speakers/202/)~ | ~Oct 5-6, 2017~|  ~Supercharging your mobile app release with [fastlane](https://fastlane.tools/)~
+~[Øredev (Malmo, Sweden)](http://www.oredev.org/2017/sessions/supercharging-your-mobile-app-release-with-fastlane)~ | ~Nov 6-10, 2017~ | ~Supercharging your mobile app release with [fastlane](https://fastlane.tools/)~
 
 
 #### 🚀 Supercharging your _Android_ app release with [fastlane](https://fastlane.tools/)

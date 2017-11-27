@@ -61,8 +61,8 @@ Conference | Date | 🎥 | 💻
 #### Podcasts/Interviews
 Conference | Date | Role
 --------|------|--------
-[Android Dialogs](https://www.youtube.com/watch?v=i1t5UqG43Oc) | 2017 | Talking with Huyen fastlane and the open source community
-[Android Developers Backstage](http://androidbackstage.blogspot.com/2017/10/episode-80-crash-talk.html) | 2017 | Talking with Chet and Dan about Crashlytics
+[Android Dialogs](https://www.youtube.com/watch?v=i1t5UqG43Oc) | 2017 | Talking with [Huyen](www.twitter.com/queencodemonkey) about fastlane and the open source community
+[Android Developers Backstage](http://androidbackstage.blogspot.com/2017/10/episode-80-crash-talk.html) | 2017 | Talking with Chet(www.twitter.com/chethaase) and Dan(www.twitter.com/dsandler) about Crashlytics
 
 #### Conference organizing/committee membership
 Conference | Date | Role

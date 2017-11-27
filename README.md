@@ -58,8 +58,13 @@ Conference | Date | 🎥 | 💻
 [AnDevCon IV](http://www.andevcon.com/) | December 2012 |  |  [slides](/slides/Advanced%20Techniques%20for%20Developing%20Powerful%2C%20Yet%20Lightweight%20Android%20SDKs%20-%20OLD.pdf)
 
 ## Other
-#### Conference organizing/committee membership
+#### Podcasts/Interviews
+Conference | Date | Role
+--------|------|--------
+[Android Dialogs](https://www.youtube.com/watch?v=i1t5UqG43Oc) | 2017 | Talking with Huyen fastlane and the open source community
+[Android Developers Backstage](http://androidbackstage.blogspot.com/2017/10/episode-80-crash-talk.html) | 2017 | Talking with Chet and Dan about Crashlytics
 
+#### Conference organizing/committee membership
 Conference | Date | Role
 --------|------|--------
 [Droidcon Boston](http://www.droidcon-boston.com) | April 2017 | Co-organized the 1st edition of Droidcon Boston. Responsible for content, schedule and sponsors. 

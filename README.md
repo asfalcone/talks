@@ -1,7 +1,7 @@
 ## Talks
 
 #### Bio
-[Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engineer at Google, in the Developer Product Group. She has been on the team since 2013 and works on many parts of Fabric, building the Android tooling, including Android Studio Plugin, Crashlytics Android SDK, Gradle plugin, Beta by Crashlytics and fastlane.
+[Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engineer at Google, in the Developer Products Group working on Firebase. She has been with the Crashlytics team since 2013 and has built many pieces of the tooling, including Android Studio Plugin, Crashlytics Android SDK, Gradle plugin, Beta by Crashlytics and fastlane.
 
 ### Upcoming
 ***Canceled fall talks due to family emergency***

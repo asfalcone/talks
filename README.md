@@ -9,6 +9,7 @@ Conference | Date | Topic
 --------|------|--------
 [AppDevCon (Amsterdam, NL)](http://appdevcon.nl/) | March 16, 2018 |  [Android Developer Options Deep Dive](http://appdevcon.nl/session/android-developer-options-deep-dive/)
 [App Builders (Lugano, Switzerland)](https://www.appbuilders.ch/) | April 16-17, 2018 |  [Android Developer Options Deep Dive](https://twitter.com/appbuilders_ch/status/948951058612719628)
+[Droidcon Italy (Turin, Italy)](http://it.droidcon.com/) | April 19-20, 2018 | [Android Developer Options Deep Dive](http://it.droidcon.com/2018/speakers/Andrea-Falcone-611/)
 
 #### 🚀 Supercharging your _Android_ app release with [fastlane](https://fastlane.tools/)
 How would you like 2 extra hours of your time back every week? All mobile app developers face similar workflows as they work to upload an app to the Play Store. Many of these processes are currently done manually, but why not automate them? Fabric’s set of developer tools, collectively called fastlane, makes building, testing, and releasing your app faster, reproducible and less troublesome, leaving developers more time to focus on feature code and not deployment! Learn how you can automate the tedious tasks to generate release notes, screenshots using _screengrab_ and push your final submission straight to the Google Play portal effortlessly from your command line using _supply_ with a powerful open source tool.

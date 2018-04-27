@@ -7,9 +7,20 @@
 
 Conference | Date | Topic
 --------|------|--------
-[AppDevCon (Amsterdam, NL)](http://appdevcon.nl/) | March 16, 2018 |  [Android Developer Options Deep Dive](http://appdevcon.nl/session/android-developer-options-deep-dive/)
-[App Builders (Lugano, Switzerland)](https://www.appbuilders.ch/) | April 16-17, 2018 |  [Android Developer Options Deep Dive](https://twitter.com/appbuilders_ch/status/948951058612719628)
-[Droidcon Italy (Turin, Italy)](http://it.droidcon.com/) | April 19-20, 2018 | [Android Developer Options Deep Dive](http://it.droidcon.com/2018/speakers/Andrea-Falcone-611/)
+stay tuned!
+
+#### 🔍 Android Developer Options Deep Dive
+Testing an app on your perfect Nexus or Pixel device under perfect network conditions works great, but you're getting reports of strange behavior from the wild and weird crashes that you can't reproduce. This talk will walk through some of the more complex options on the Developer Options screen in the Android OS and discuss how a developer can use them to debug problems in their application. Topics covered include: showing surface updates to help you find layout loops in your app, showing layout bounds to get your views pixel perfect, and aggressively killing processes and activities to ensure that your app performs well under stress. We'll cover these options and more as we dive deep into debugging apps.
+
+Conference | Date | 🎥 | 💻
+--------|------|--------|-------
+[AppDevCon](http://appdevcon.nl/) | March 2018 | |
+[AppBuilders](https://www.appbuilders.ch/) | April 2018 | |
+[Droidcon Italy](http://it.droidcon.com/) | April 2018 | |
+[360\|AnDev](https://360andev.com) | July 2017 | [video](https://academy.realm.io/posts/360-andev-2017-andrea-falcone-android-developer-options-deep-dive/) |  [slides](https://drive.google.com/file/d/0B1kX3B0jm6aVLVdnTGZrcVU0YUE/view?usp=sharing)
+[DroidconSF](http://sf.droidcon.com/) | March 2016 | [video](https://www.youtube.com/watch?v=TbiNM1ltawo) |  [slides](/slides/Andrea%20Falcone%20-%20Android%20Developer%20Options.pdf)
+[Twitter Flight](https://dev.twitter.com/flight/2015) | October 2015 | [video](https://www.youtube.com/watch?v=Fmf9b2EqqIE) | [slides](/slides/Flight2015-Falcone_Andrea-Android_Developer_Options.pdf)
+[DroidconNYC](http://nyc.droidcon.com/2015/) | August 2015 | [video](https://www.youtube.com/watch?v=r9kW3nIDdBY) | [slides](/slides/Andrea%20Falcone%20-%20Android%20Developer%20Options.pdf)
 
 #### 🚀 Supercharging your _Android_ app release with [fastlane](https://fastlane.tools/)
 How would you like 2 extra hours of your time back every week? All mobile app developers face similar workflows as they work to upload an app to the Play Store. Many of these processes are currently done manually, but why not automate them? Fabric’s set of developer tools, collectively called fastlane, makes building, testing, and releasing your app faster, reproducible and less troublesome, leaving developers more time to focus on feature code and not deployment! Learn how you can automate the tedious tasks to generate release notes, screenshots using _screengrab_ and push your final submission straight to the Google Play portal effortlessly from your command line using _supply_ with a powerful open source tool.
@@ -30,16 +41,6 @@ Conference | Date | 🎥 | 💻
 [Appdevcon](www.appdevcon.nl)| March 2017 | | [slides](https://drive.google.com/open?id=0B1kX3B0jm6aVTFlIQ3JqUVRlMDQ)
 [Twitter Dev Community Meetup](http://www.meetup.com/Boston-Twitter-Developer-Community/events/232247449/) | July 2016 | [video](https://www.youtube.com/watch?v=oN16DO-jxEQ)| [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf) 
 [PhillyETE](http://2016.phillyemergingtech.com/) | April 2016 | [video](http://chariotsolutions.com/screencast/philly-ete-2016-5-andrea-falcone-supercharging-mobile-app-release-fastlane/) | [slides](/slides/phillyETE-fastlane-afalcone-pdf.pdf)
-
-#### 🔍 Android Developer Options Deep Dive
-Testing an app on your perfect Nexus 5 device under perfect network conditions works great, but you're getting reports of strange behavior from the wild and weird crashes that you can't reproduce. This talk will walk through some of the more complex options on the Developer Options screen in the Android OS and discuss how a developer can use them to debug problems in their application. Topics covered include: showing surface updates to help you find layout loops in your app, showing layout bounds to get your views pixel perfect, and aggressively killing processes and activities to ensure that your app performs well under stress. We'll cover these options and more as we dive deep into debugging apps.
-
-Conference | Date | 🎥 | 💻
---------|------|--------|-------
-[360\|AnDev](https://360andev.com) | July 2017 | [video](https://academy.realm.io/posts/360-andev-2017-andrea-falcone-android-developer-options-deep-dive/) |  [slides](https://drive.google.com/file/d/0B1kX3B0jm6aVLVdnTGZrcVU0YUE/view?usp=sharing)
-[DroidconSF](http://sf.droidcon.com/) | March 2016 | [video](https://www.youtube.com/watch?v=TbiNM1ltawo) |  [slides](/slides/Andrea%20Falcone%20-%20Android%20Developer%20Options.pdf)
-[Twitter Flight](https://dev.twitter.com/flight/2015) | October 2015 | [video](https://www.youtube.com/watch?v=Fmf9b2EqqIE) | [slides](/slides/Flight2015-Falcone_Andrea-Android_Developer_Options.pdf)
-[DroidconNYC](http://nyc.droidcon.com/2015/) | August 2015 | [video](https://www.youtube.com/watch?v=r9kW3nIDdBY) | [slides](/slides/Andrea%20Falcone%20-%20Android%20Developer%20Options.pdf)
 
 #### 🔨 Building the [Fabric](https://get.fabric.io/)  SDKs
 

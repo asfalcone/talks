@@ -1,12 +1,15 @@
 ## Talks
 
 #### Bio
-[Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engineer at Google, in the Developer Products Group working on Firebase. She has been with the Crashlytics team since 2013 and has built many pieces of the tooling, including Android Studio Plugin, Crashlytics Android SDK, Gradle plugin, Beta by Crashlytics and fastlane.
+[Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engineer at Verily Life Sciences, working to improve health outcomes through connected healthcare. She previously built Crashlytics, Fabric and fastlane (first at Crashylytics, then Twitter, then Google!) She is an accomplished mobile/mobile tools developer with experience in building not only iOS and Android apps but also Android Studio Plugins, Android SDKs, Gradle plugins, and CI/CD systems like fastlane.
 
 ### Upcoming
 
 Conference | Date | Topic
 --------|------|--------
+GDG DevFest Ukraine|Oct 2018|TBD
+MobileEra|Nov 2018|TBD
+
 stay tuned!
 
 #### 🔍 Android Developer Options Deep Dive

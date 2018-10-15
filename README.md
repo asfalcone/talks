@@ -18,7 +18,7 @@ Learn how our team does iterative product development, from technical automation
 
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
-[GDG DevFest Ukraine](https://devfest.gdg.org.ua) | October 2018 | [video]() | 
+[GDG DevFest Ukraine](https://devfest.gdg.org.ua) | October 2018 | [video]() | [slides](https://github.com/asfalcone/talks/blob/master/slides/IterativeMobileDevelopment_DevFestUkraine.pdf)|
 [MobileEra](https://mobileera.rocks/) | November 2018 | |
 
 #### 🔍 Android Developer Options Deep Dive

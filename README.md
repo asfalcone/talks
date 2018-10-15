@@ -7,10 +7,19 @@
 
 Conference | Date | Topic
 --------|------|--------
-GDG DevFest Ukraine|Oct 2018|TBD
-MobileEra|Nov 2018|TBD
 
-stay tuned!
+Stay Tuned!
+
+
+#### 📱Iterative Mobile Developement 
+In the web world, developers can ship and iterate on features very quickly. How can mobile developers use this same process when there is overhead to doing a full release?
+
+Learn how our team does iterative product development, from technical automation solutions to team process that facilitates it, giving developers control and bring features to your more customers quickly.
+
+Conference | Date | 🎥 | 💻
+--------|------|--------|-------
+[GDG DevFest Ukraine](https://devfest.gdg.org.ua) | October 2018 | [video]() | 
+[MobileEra](https://mobileera.rocks/) | November 2018 | |
 
 #### 🔍 Android Developer Options Deep Dive
 Testing an app on your perfect Nexus or Pixel device under perfect network conditions works great, but you're getting reports of strange behavior from the wild and weird crashes that you can't reproduce. This talk will walk through some of the more complex options on the Developer Options screen in the Android OS and discuss how a developer can use them to debug problems in their application. Topics covered include: showing surface updates to help you find layout loops in your app, showing layout bounds to get your views pixel perfect, and aggressively killing processes and activities to ensure that your app performs well under stress. We'll cover these options and more as we dive deep into debugging apps.

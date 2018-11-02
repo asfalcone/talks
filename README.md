@@ -8,7 +8,7 @@
 Conference | Date | Topic
 --------|------|--------
 
-Stay Tuned!
+Stay Tuned! DM on [Twitter](http://twitter.com/asfalcone) if you're interested in having me speak at your conference.
 
 
 #### 📱Iterative Mobile Developement 

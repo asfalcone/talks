@@ -28,7 +28,7 @@ Conference | Date | 🎥 | 💻
 --------|------|--------|-------
 [AppDevCon](http://appdevcon.nl/) | March 2018 | [video](http://appdevcon.nl/session/android-developer-options-deep-dive/) |
 [AppBuilders](https://www.appbuilders.ch/) | April 2018 | |
-[Droidcon Italy](http://it.droidcon.com/) | April 2018 | |
+[Droidcon Italy](http://it.droidcon.com/) | April 2018 | [video](https://www.youtube.com/watch?v=dppcDubIL8Y)|
 [360\|AnDev](https://360andev.com) | July 2017 | [video](https://academy.realm.io/posts/360-andev-2017-andrea-falcone-android-developer-options-deep-dive/) |  [slides](https://drive.google.com/file/d/0B1kX3B0jm6aVLVdnTGZrcVU0YUE/view?usp=sharing)
 [DroidconSF](http://sf.droidcon.com/) | March 2016 | [video](https://www.youtube.com/watch?v=TbiNM1ltawo) |  [slides](/slides/Andrea%20Falcone%20-%20Android%20Developer%20Options.pdf)
 [Twitter Flight](https://dev.twitter.com/flight/2015) | October 2015 | [video](https://www.youtube.com/watch?v=Fmf9b2EqqIE) | [slides](/slides/Flight2015-Falcone_Andrea-Android_Developer_Options.pdf)

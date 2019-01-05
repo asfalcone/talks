@@ -11,7 +11,7 @@ Conference | Date | Topic
 Stay Tuned! DM on [Twitter](http://twitter.com/asfalcone) if you're interested in having me speak at your conference.
 
 
-#### 📱Iterative Mobile Developement 
+#### 📱Iterative Mobile Development 
 In the web world, developers can ship and iterate on features very quickly. How can mobile developers use this same process when there is overhead to doing a full release?
 
 Learn how our team does iterative product development, from technical automation solutions to team process that facilitates it, giving developers control and bring features to your more customers quickly.

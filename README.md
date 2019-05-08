@@ -1,7 +1,7 @@
 ## Talks
 
 #### Bio
-[Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engineer at Google. Currently she is working on [Androidx](https://developer.android.com/jetpack/androidx) building libraries and tooling for internal and external developers as part of Android Jetpack. She previously built Crashlytics, Fabric and fastlane (first at Crashylytics, then Twitter, then Google!) She is an accomplished mobile/mobile tools developer with experience in building not only iOS and Android apps but also Android Studio Plugins, Android SDKs, Gradle plugins, and CI/CD systems like fastlane.
+[Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engineer at Google. Currently she is working on [Androidx](https://developer.android.com/jetpack/androidx) building libraries and tooling for internal and external developers as part of Android Jetpack. She previously built Crashlytics, Fabric and fastlane (first at Crashlytics, then Twitter, then Google!) She is an accomplished mobile/mobile tools developer with experience in building not only iOS and Android apps but also Android Studio Plugins, Android SDKs, Gradle plugins, and CI/CD systems like fastlane.
 
 ### Upcoming
 

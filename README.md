@@ -7,7 +7,7 @@
 
 Conference | Date | Topic
 --------|------|--------
-[mDevCamp Prague](https://mdevcamp.eu/#andrea-falcone-modal) | May 31 2019 | Android Developer Options Deep Dive 
+[Droidcon Berlin](https://www.de.droidcon.com/speaker/Andrea-Falcone) | July 1-3 31 2019 | Iterative Mobile Development 
 
 Stay Tuned! DM on [Twitter](http://twitter.com/asfalcone) if you're interested in having me speak at your conference.
 

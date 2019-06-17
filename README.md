@@ -27,7 +27,7 @@ Testing an app on your perfect Nexus or Pixel device under perfect network condi
 
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
-[mDevCamp Prague](https://mdevcamp.eu) | May 2019 | soon | [slides](/slides/Developer-Options-Deep-Dive2019.pdf)
+[mDevCamp Prague](https://mdevcamp.eu) | May 2019 | [video](https://slideslive.com/38916506/android-developer-options-deep-dive) | [slides](/slides/Developer-Options-Deep-Dive2019.pdf)
 [AppDevCon](http://appdevcon.nl/) | March 2018 | [video](http://appdevcon.nl/session/android-developer-options-deep-dive/) |
 [AppBuilders](https://www.appbuilders.ch/) | April 2018 | |
 [Droidcon Italy](http://it.droidcon.com/) | April 2018 | [video](https://www.youtube.com/watch?v=dppcDubIL8Y)|

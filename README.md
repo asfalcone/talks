@@ -7,7 +7,7 @@
 
 Conference | Date | Topic
 --------|------|--------
-[Droidcon Berlin](https://www.de.droidcon.com/speaker/Andrea-Falcone) | July 1-3 31 2019 | Iterative Mobile Development 
+
 
 Stay Tuned! DM on [Twitter](http://twitter.com/asfalcone) if you're interested in having me speak at your conference.
 
@@ -19,8 +19,9 @@ Learn how our team does iterative product development, from technical automation
 
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
-[GDG DevFest Ukraine](https://devfest.gdg.org.ua) | October 2018 | [video](https://www.youtube.com/watch?v=45ynJDjZIvg&t=0s&index=21&list=PLt8lEzcLNl32vhWgFOXtHrFJfs-A63qQS) | [slides](https://github.com/asfalcone/talks/blob/master/slides/IterativeMobileDevelopment_DevFestUkraine.pdf)|
+[Droidcon Berlin](https://www.de.droidcon.com)| July 2019 | soon | [slides](https://github.com/asfalcone/talks/blob/master/slides/Iterative%20Development%20-%20ASFALCONE.pdf)
 Keynote - [MobileEra](https://mobileera.rocks/) | November 2018 | [video](https://vimeo.com/298838980) | [slides](https://github.com/asfalcone/talks/blob/master/slides/Iterative_Development_mobileera.pdf) 
+[GDG DevFest Ukraine](https://devfest.gdg.org.ua) | October 2018 | [video](https://www.youtube.com/watch?v=45ynJDjZIvg&t=0s&index=21&list=PLt8lEzcLNl32vhWgFOXtHrFJfs-A63qQS) | [slides](https://github.com/asfalcone/talks/blob/master/slides/IterativeMobileDevelopment_DevFestUkraine.pdf)|
 
 #### 🔍 Android Developer Options Deep Dive
 Testing an app on your perfect Nexus or Pixel device under perfect network conditions works great, but you're getting reports of strange behavior from the wild and weird crashes that you can't reproduce. This talk will walk through some of the more complex options on the Developer Options screen in the Android OS and discuss how a developer can use them to debug problems in their application. Topics covered include: showing surface updates to help you find layout loops in your app, showing layout bounds to get your views pixel perfect, and aggressively killing processes and activities to ensure that your app performs well under stress. We'll cover these options and more as we dive deep into debugging apps.

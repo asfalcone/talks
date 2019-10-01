@@ -7,7 +7,8 @@
 
 Conference | Date | Topic
 --------|------|--------
-GDG DevFest Santiago | Oct 4-5, 2019 | Your first AOSP contribution
+[GDG DevFest Santiago](https://devfestsantiago.com/speakers/andrea_falcone) | Oct 4-5, 2019 | Your first AOSP contribution
+GDE Summit, Sunnyvale CA | Oct 25-26, 2019 | Your first AOSP contribution
 [Codemotion Berlin](https://events.codemotion.com/conferences/berlin/2019/speaker/6214/) | Nov 12-13, 2019 | Your first AOSP contribution
 
 Stay Tuned! DM on [Twitter](http://twitter.com/asfalcone) if you're interested in having me speak at your conference.

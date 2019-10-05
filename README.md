@@ -17,7 +17,7 @@ Have you ever wanted to fix a bug in AOSP but found it daunting? Have you wanted
 
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
-[GDG DevFest Santiago](https://devfestsantiago.com) | Oct 2019 | soon | [slides](slides/Your First AOSP Contribution - DevFest Santiago.pdf)
+[GDG DevFest Santiago](https://devfestsantiago.com) | Oct 2019 | soon | [slides](https://github.com/asfalcone/talks/blob/master/slides/Your%20First%20AOSP%20Contribution%20-%20DevFest%20Santiago.pdf)
 
 #### 📱Iterative Mobile Development 
 In the web world, developers can ship and iterate on features very quickly. How can mobile developers use this same process when there is overhead to doing a full release?

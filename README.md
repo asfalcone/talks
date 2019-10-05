@@ -7,7 +7,6 @@
 
 Conference | Date | Topic
 --------|------|--------
-[GDG DevFest Santiago](https://devfestsantiago.com/speakers/andrea_falcone) | Oct 4-5, 2019 | Your first AOSP contribution
 GDE Summit, Sunnyvale CA | Oct 25-26, 2019 | Your first AOSP contribution
 [Codemotion Berlin](https://events.codemotion.com/conferences/berlin/2019/speaker/6214/) | Nov 12-13, 2019 | Your first AOSP contribution
 
@@ -15,6 +14,10 @@ Stay Tuned! DM on [Twitter](http://twitter.com/asfalcone) if you're interested i
 
 #### 🤖Your first AOSP contribution
 Have you ever wanted to fix a bug in AOSP but found it daunting? Have you wanted to search the code in AOSP but found it difficult? We'll dig into the tools like Repo and Gerrit that the Android team uses everyday. Get ready to be a contributor to the Android Open Source Project!
+
+Conference | Date | 🎥 | 💻
+--------|------|--------|-------
+[GDG DevFest Santiago](https://devfestsantiago.com) | Oct 2019 | soon | [slides](slides/Your First AOSP Contribution - DevFest Santiago.pdf)
 
 #### 📱Iterative Mobile Development 
 In the web world, developers can ship and iterate on features very quickly. How can mobile developers use this same process when there is overhead to doing a full release?

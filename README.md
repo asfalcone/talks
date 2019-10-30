@@ -7,6 +7,7 @@
 
 Conference | Date | Topic
 --------|------|--------
+[DevFest Berlin](https://2019.devfest-berlin.de) | Nov 9, 2019 | Your first AOSP contribution
 [Codemotion Berlin](https://events.codemotion.com/conferences/berlin/2019/speaker/6214/) | Nov 12-13, 2019 | Your first AOSP contribution
 
 Stay Tuned! DM on [Twitter](http://twitter.com/asfalcone) if you're interested in having me speak at your conference.

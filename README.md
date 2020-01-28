@@ -7,6 +7,8 @@
 
 Conference | Date | Topic
 --------|------|--------
+[AppDevCon, Amsterdam](appdevcon.nl) | March 13, 2020 | Your first AOSP contribution
+[Chicago Roboto](https://chicagoroboto.com/) | April 13-14, 2020 | Your first AOSP contribution
 
 
 Stay Tuned! DM on [Twitter](http://twitter.com/asfalcone) if you're interested in having me speak at your conference.

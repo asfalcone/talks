@@ -7,9 +7,9 @@
 
 Conference | Date | Topic
 --------|------|--------
-[AppDevCon, Amsterdam](appdevcon.nl) | March 13, 2020 | Your first AOSP contribution
-[Chicago Roboto](https://chicagoroboto.com/) | April 13-14, 2020 | Your first AOSP contribution
-[Android Makers, Paris](https://androidmakers.fr/) | April 20-21, 2020 | Your first AOSP contribution
+[~AppDevCon, Amsterdam~](appdevcon.nl) | ~March 13, 2020~ | ~Your first AOSP contribution~
+[~Chicago Roboto~](https://chicagoroboto.com/) | ~April 13-14, 2020~ | ~Your first AOSP contribution~
+[~Android Makers, Paris~](https://androidmakers.fr/) | ~April 20-21, 2020~ | ~Your first AOSP contribution~
 
 
 Stay Tuned! DM on [Twitter](http://twitter.com/asfalcone) if you're interested in having me speak at your conference.
@@ -21,7 +21,7 @@ Conference | Date | 🎥 | 💻
 --------|------|--------|-------
 [DevFest Berlin](https://2019.devfest-berlin.de) | Nov 2019 | | [slides](https://goo.gle/contribute-to-aosp)|
 [Codemotion Berlin](https://events.codemotion.com/conferences/berlin) | Nov 2019 | soon | [slides](https://goo.gle/contribute-to-aosp)|
-[GDG DevFest Santiago](https://devfestsantiago.com) | Oct 2019 | soon | [slides](https://github.com/asfalcone/talks/blob/master/slides/Your%20First%20AOSP%20Contribution%20-%20DevFest%20Santiago.pdf)
+[GDG DevFest Santiago](https://devfestsantiago.com) | Oct 2019 | [Video (Spanish)](https://www.youtube.com/watch?v=A-_dooszKZU) | [slides](https://github.com/asfalcone/talks/blob/master/slides/Your%20First%20AOSP%20Contribution%20-%20DevFest%20Santiago.pdf)
 
 #### 📱Iterative Mobile Development 
 In the web world, developers can ship and iterate on features very quickly. How can mobile developers use this same process when there is overhead to doing a full release?

@@ -18,7 +18,7 @@ Have you ever wanted to fix a bug in AOSP but found it daunting? Have you wanted
 
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
-[360|AnDev](https://360andev.com/) | July 2020 | Soon! | [slides](https://goo.gle/contribute-to-aosp)|
+[360 AnDev](https://360andev.com/) | July 2020 | Soon! | [slides](https://goo.gle/contribute-to-aosp)|
 [DevFest Berlin](https://2019.devfest-berlin.de) | Nov 2019 | | [slides](https://goo.gle/contribute-to-aosp)|
 [Codemotion Berlin](https://events.codemotion.com/conferences/berlin) | Nov 2019 | [Video](https://www.youtube.com/watch?v=GMBY4m3UCyQ) | [slides](https://goo.gle/contribute-to-aosp)|
 [GDG DevFest Santiago](https://devfestsantiago.com) | Oct 2019 | [Video (Spanish)](https://www.youtube.com/watch?v=A-_dooszKZU) | [slides](https://github.com/asfalcone/talks/blob/master/slides/Your%20First%20AOSP%20Contribution%20-%20DevFest%20Santiago.pdf)

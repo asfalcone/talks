@@ -17,8 +17,8 @@ Have you ever wanted to fix a bug in AOSP but found it daunting? Have you wanted
 
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
-[AppDevCon](https://appdevcon.nl) | November 2020 | Soon! | [slides](https://goo.gle/contribute-to-aosp)|
-[Chicago Roboto](https://chicagoroboto.com/) | September 2020 |  [Video](https://www.youtube.com/watch?v=1Msuo3JSsfE&list=PLnD_TKDSaFyXWrnnEhfxeKABuq49Is) | [slides](https://goo.gle/contribute-to-aosp)|
+[AppDevCon](https://appdevcon.nl) | Nov 2020 | Soon! | [slides](https://goo.gle/contribute-to-aosp)|
+[Chicago Roboto](https://chicagoroboto.com/) | Sept 2020 |  [Video](https://www.youtube.com/watch?v=1Msuo3JSsfE&list=PLnD_TKDSaFyXWrnnEhfxeKABuq49Is) | [slides](https://goo.gle/contribute-to-aosp)|
 [360 AnDev](https://360andev.com/) | July 2020 | [Video](https://www.youtube.com/watch?v=1Msuo3JSsfE&list=PLnD_TKDSaFyXWrnnEhfxeKABuq49Is) | [slides](https://goo.gle/contribute-to-aosp)|
 [DevFest Berlin](https://2019.devfest-berlin.de) | Nov 2019 | | [slides](https://goo.gle/contribute-to-aosp)|
 [Codemotion Berlin](https://events.codemotion.com/conferences/berlin) | Nov 2019 | [Video](https://www.youtube.com/watch?v=GMBY4m3UCyQ) | [slides](https://goo.gle/contribute-to-aosp)|

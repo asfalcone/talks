@@ -7,7 +7,7 @@
 
 Conference | Date | Topic
 --------|------|--------
-Nothing planned | yet | :)
+mDevMeet 2021 | May 27, 20201 | Your first AOSP contribution
 
 
 Stay Tuned! DM on [Twitter](http://twitter.com/asfalcone) if you're interested in having me speak at your conference.

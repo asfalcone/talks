@@ -3,13 +3,6 @@
 #### Bio
 [Andrea Falcone](https://twitter.com/asfalcone) is a Senior Software Engineer at Google. Currently she is working on [Jetpack](https://developer.android.com/jetpack) building libraries and tooling for internal and external developers as part of Android Jetpack. She previously built Crashlytics, Fabric and fastlane (first at Crashlytics, then Twitter, then Google!) She is an accomplished mobile/mobile tools developer with experience in building not only iOS and Android apps but also Android Studio Plugins, Android SDKs, Gradle plugins, and CI/CD systems like fastlane.
 
-### Upcoming
-
-Conference | Date | Topic
---------|------|--------
-mDevMeet 2021 | May 27, 2021 | Your first AOSP contribution
-
-
 Stay Tuned! DM on [Twitter](http://twitter.com/asfalcone) if you're interested in having me speak at your conference.
 
 #### 🤖Your first AOSP contribution
@@ -17,7 +10,8 @@ Have you ever wanted to fix a bug in AOSP but found it daunting? Have you wanted
 
 Conference | Date | 🎥 | 💻
 --------|------|--------|-------
-[AppDevCon](https://appdevcon.nl) | Nov 2020 | Soon! | [slides](https://goo.gle/contribute-to-aosp)|
+[mDevMeet](https://ti.to/mdevcamp/mdevmeet-2021/en) | May 2021 | | [slides](https://goo.gle/contribute-to-aosp)|
+[AppDevCon](https://appdevcon.nl) | Nov 2020 |  | [slides](https://goo.gle/contribute-to-aosp)|
 [Chicago Roboto](https://chicagoroboto.com/) | Sept 2020 |  [Video](https://www.youtube.com/watch?v=1Msuo3JSsfE&list=PLnD_TKDSaFyXWrnnEhfxeKABuq49Is) | [slides](https://goo.gle/contribute-to-aosp)|
 [360 AnDev](https://360andev.com/) | July 2020 | [Video](https://www.youtube.com/watch?v=1Msuo3JSsfE&list=PLnD_TKDSaFyXWrnnEhfxeKABuq49Is) | [slides](https://goo.gle/contribute-to-aosp)|
 [DevFest Berlin](https://2019.devfest-berlin.de) | Nov 2019 | | [slides](https://goo.gle/contribute-to-aosp)|
